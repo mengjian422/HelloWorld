@@ -12,5 +12,6 @@ int main
 	printf("test_branch\n");
 	printf("test_branch_rebase1\n");
 	printf("test_branch_rebase2\n");
+	printf("master\n");
 	return 0;
 }
